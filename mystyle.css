@@ -1,0 +1,20 @@
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.titulo h1{
+    color: yellow;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+.card img {
+    width: 100vh;
+}
